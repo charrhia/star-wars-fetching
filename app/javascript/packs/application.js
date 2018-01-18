@@ -14,10 +14,14 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import jQuery from 'jquery'
+import App from '../components/App'
 
 jQuery(() => {
   ReactDOM.render(
-    <h1>Boo yaa</h1>,
+    <App />,
     document.getElementById('app')
   );
+
+
+
 })

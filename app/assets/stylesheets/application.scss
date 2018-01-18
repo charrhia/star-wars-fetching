@@ -1,2 +1,38 @@
-// @import "*";
 
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#btn {
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  color: violet;
+  text-align: center;
+}
+
+button {
+  padding: 10px 10px;
+  font-size: 15px;
+  border-style: 0 none;
+  border-radius: 10px;
+  background-color: violet;
+  color: white;
+}
+
+
+
+#content-div {
+  padding-left: 100px;
+}
+
+p {
+  padding: 5px 5px;
+  border-radius: 10px;
+  border-style: solid;
+  max-width: 75%;
+  align-content: center;
+}
